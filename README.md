@@ -50,3 +50,13 @@ This is because at terraform init time terraform does not have access to the aws
 
 Currently works for internal need to consider production use.
 
+# Other Scripts
+
+More generalised script: 
+
+https://github.com/ThoughtWorksInc/aws_role_credentials
+
+and a good explaination: 
+
+http://peter.gillardmoss.me.uk/blog/2015/11/13/safety-first-with-aws-roles-and-sts/
+
